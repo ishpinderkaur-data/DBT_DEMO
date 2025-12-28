@@ -1,0 +1,9 @@
+sources:
+  - name: DEMO
+    database: DEMO
+    schema: DEMO_SCHEMA
+    tables:
+      - name: BIKE
+      - name: WEATHER
+
+     
